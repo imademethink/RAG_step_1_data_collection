@@ -1,5 +1,6 @@
 # First step in RAG starts with Data Collection from different source (types)
 
+# YouTube video with detailed explaination https://youtu.be/9CC9wuTsQF8
 <img width="1536" height="1024" alt="Thumbnail" src="https://github.com/user-attachments/assets/054a5d99-567f-4042-8ada-35de5fcc7a8a" />
 
 # Here are those 17 types of sources to start with
